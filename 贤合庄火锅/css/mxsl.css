@@ -1,0 +1,103 @@
+.zt{
+	width: 1300px;
+	height: 500px;
+	margin: 0px auto;
+	background-color: white;
+}
+.zt .tp{
+	float: left;
+	width: 600px;
+	height: 500px;
+	background: url(../img/p2.jpg);
+	background-size: 600px 500px;
+    background-color: aquamarine;
+}
+.zt .rightzt{
+	float: right;
+	width: 580px;
+	height:500px;
+	margin-top: 0px;
+	margin-right: 50px;
+
+}
+.zt1{
+ width: 1300px;
+ height: 130px;
+ margin: 110px auto;
+ margin-bottom: 0;
+}
+.logo1{
+	width: 306px;
+	height: 70px;
+	margin: 130px auto;
+	margin-bottom: 0;
+	background: url(../img/t1.png);
+}
+
+.zt .wz{
+	
+	width: 600px;
+	height: 500px;
+}
+.zt .rightzt h1{
+	color: red;
+	margin-top: 30px;
+	font-size: 45px;
+}
+.zt .rightzt p{
+	width: 470px;
+    height: 600px;
+    margin-top: 78px;
+    margin-right: 10px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.zt2{
+ width: 1300px;
+ height: 130px;
+ margin: 0px auto;
+ margin-bottom: 0;
+}
+.logo2{
+	width: 306px;
+	height: 70px;
+	margin: 20px auto;
+	margin-bottom: 0;
+	background: url(../img/t9.png);
+}
+.qy{
+	width: 1210px;
+	height: 555px;
+	margin: 0 auto;
+	background-color: aliceblue;
+}
+.qy .tp{
+	float: left;
+    width: 380px;
+    height: 260px;
+    margin: 10px 10px;
+    
+    background-size: 100%;
+    background-color: #EB5148;
+}
+.qy .tp1{
+	background: url(../img/lx1.jpg);
+}
+.qy .tp2{
+	background: url(../img/lx2.jpg);
+}
+.qy .tp3{
+	background: url(../img/lx5.jpg);
+}
+.qy .tp4{
+	background: url(../img/lx4.jpg);
+}
+.qy .tp5{
+	background: url(../img/lx5.jpg);
+}
+.qy .tp6{
+	background: url(../img/lx6.jpg);
+}
+
+

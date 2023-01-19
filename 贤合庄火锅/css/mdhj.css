@@ -1,0 +1,67 @@
+.big_box{
+	width: 1300px;
+	height: 655px;
+	margin: 0 auto;
+background:url(../img/_bg1.jpg);
+
+}
+.left_box{
+	float: left;
+     width: 670px;
+    height: 100%;
+
+	
+	
+}
+.right_box{
+	float: right;
+    width: 618px;
+    height: 100%;
+
+    
+	
+	
+}
+.box{
+	float: left;
+	width: 300px;
+	height: 300px;
+	margin: 10px;
+	background-color: #EB5148;
+}
+.mdhj1{
+	background: url(../img/md1.jpg);
+	background-size: 300px 300px;
+}
+.mdhj2{
+	background: url(../img/md3.jpg);
+	background-size: 300px 300px;
+}
+.mdhj4{
+	background: url(../img/md4.jpg);
+	background-size: 300px 300px;
+}
+.mdhj5{
+	background: url(../img/md5.jpg);
+	background-size: 617px 646px;
+}
+.mdhj3{
+	background: url(../img/md3.jpg);
+	background-size: 300px 300px;
+}
+.zt5 {
+	width: 1519px;
+	height: 130px;
+	margin: 0px auto;
+	margin-top: 140px;
+	margin-bottom: 0;
+}
+
+.logo5 {
+	width: 306px;
+	height: 70px;
+	margin: 20px auto;
+	margin-bottom: 0;
+	background: url(../img/t4.png)
+}
+

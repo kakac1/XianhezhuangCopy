@@ -1,0 +1,156 @@
+body {
+	background: url(../img/_bg1.jpg);
+}
+
+.xhz {
+	width: 1400px;
+	height: 125px;
+	margin: 0 auto;
+	margin-top: 110px;
+	margin-bottom: 0;
+	background: url(../img/xhz.png);
+}
+
+.zt2 {
+	width: 1519px;
+	height: 130px;
+	margin: 0px auto;
+	margin-bottom: 0;
+}
+
+.logo2 {
+	width: 306px;
+	height: 70px;
+	margin: 20px auto;
+	margin-bottom: 0;
+	background: url(../img/t11.png);
+}
+
+.lxfs {
+	width: 1300px;
+	height: 800px;
+	margin: 0 auto;
+	margin-bottom: 0;
+}
+
+.dz {
+	float: left;
+	width: 625px;
+	height: 120px;
+	margin: 7px 10px;
+}
+
+.ipt {
+	float: left;
+	display: inline-block;
+	width: 80%;
+	padding: 20px;
+	font-size: 20px;
+	height: 50px;
+	margin-top: 14px;
+	margin-left: 44px;
+	border: 2px solid #bfbfbf;
+	background: 0 0;
+}
+
+.nn {
+	width: 100px;
+	height: 100px;
+}
+
+.dztp {
+	width: 1300px;
+	height: 600px;
+	margin: 0 auto;
+}
+
+.lgtp {
+	width: 670px;
+	height: 670px;
+}
+
+.top_box1 {
+	float: left;
+	width: 500px;
+	height: 164px;
+	margin-top: 59px;
+	margin-left: 78px;
+	padding-left: 10px;
+	padding-top: 12px;
+	border: 2px black solid;
+}
+
+.box2 h1 {
+	float: left;
+	font-size: 41px;
+	margin-left: 55px;
+	margin-top: 14px;
+}
+
+.box2 p {
+	float: left;
+	font-size: 51px;
+	color: red;
+	margin-left: 48px;
+	margin-top: 6px;
+}
+
+.right_tp {
+	float: right;
+	width: 618px;
+	height: 457px;
+	margin-right: 24px;
+	margin-top: 51px;
+	background-color: #5F9EA0;
+	background: url(../img/dizhi.jpg);
+	background-size: 619px 458px;
+}
+
+.logo3 {
+	background: url(../img/t12.png);
+}
+
+.liuyan {
+	float: left;
+	width: 1300px;
+	height: 100px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+.anniu {
+	float: left;
+	width: 600px;
+	height: 10px;
+	margin-top: 90px;
+	margin-left: 502px;
+	padding: 59px;
+}
+
+.tijiao {
+	width: 10px;
+	width: 30px;
+	padding: 10px;
+	resize: none;
+	margin-left: 30px;
+	color: red;
+}
+
+.lxfs .xm {
+	float: right;
+	width: 800px;
+	height: 200px;
+}
+
+.daliuyan {
+	width: 1220px;
+	height: 130px;
+	margin: 10px auto;
+}
+
+.tijiaoanniu {
+	width: 119px;
+	height: 69px;
+	color: red;
+	font-size: 26px;
+}

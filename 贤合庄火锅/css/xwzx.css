@@ -1,0 +1,68 @@
+.xhz{
+	width: 1400px;
+	height: 125px;
+	margin: 0 auto;
+	margin-top: 110px;
+	margin-bottom: 0;
+	background: url(../img/xhz.png);
+}
+.zk{
+	width: 1250px;
+	height: 910px;
+	margin: 0 auto;
+	background: url(../img/_bg1.jpg);
+}
+.zk .xw{
+	float: left;
+	width: 600px;
+    height: 280px;
+    margin: 10px;
+
+}
+.zk .xw:hover{
+	background-color: #FF0000;
+}
+
+
+.zk .xw .xwtp{
+	float: left;
+	width: 300px;
+	height: 278px;
+	background-size: 301px 278px;
+}
+.time {
+    float: left;
+    width: 180px;
+    height: 210px;
+    text-align: center;
+    padding-top: 35px;
+    margin-left: 40px;
+}
+.year {
+    font-size: 42px;
+    color: #b1b1b1;
+}
+.date {
+    font-size: 128px;
+    color: #232323;
+    line-height: 1.2;
+}
+.xpt1{
+	background: url(../img/xw1.jpg);
+}
+.xpt2{
+	background: url(../img/xw2.jpg);
+}
+.xpt3{
+	background: url(../img/xw3.jpg);
+}
+.xpt4{
+	background: url(../img/xw4.jpg);
+}
+.xpt5{
+	background: url(../img/xw5.jpg);
+}
+.xpt6{
+	background: url(../img/xw6.jpg);
+}
+

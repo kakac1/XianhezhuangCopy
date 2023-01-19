@@ -1,0 +1,76 @@
+.gz {
+	width: 1300px;
+	height: 350px;
+	margin: 0 auto;
+	margin-bottom: 0;
+	background: url(../img/_bg8.jpg);
+}
+
+.gz .xhz2 {
+	float: left;
+	width: 298px;
+	height: 194px;
+	margin: 94px 500px;
+	margin-bottom: 10px;
+	background: url(../img/t8.png);
+}
+
+.zt3 {
+	width: 1300px;
+	height: 130px;
+	margin: 0px auto;
+	margin-bottom: 0;
+}
+
+.logo3 {
+	width: 306px;
+	height: 70px;
+	margin: 20px auto;
+	margin-bottom: 0;
+	background: url(../img/t10.png);
+}
+
+.qy {
+	width: 1210px;
+	height: 555px;
+	margin: 50px auto;
+	background-color: aliceblue;
+}
+
+.qy .tp {
+	float: left;
+	width: 380px;
+	height: 260px;
+	margin: 10px 10px;
+	background-color: #EB5148;
+}
+
+.qy .tp1 {
+	background: url(../img/z1.jpg);
+	background-size: 380px 260px;
+}
+
+.qy .tp2 {
+	background: url(../img/z2.jpg);
+	background-size: 380px 260px;
+}
+
+.qy .tp3 {
+	background: url(../img/z3.jpg);
+	background-size: 380px 260px;
+}
+
+.qy .tp4 {
+	background: url(../img/z4.jpg);
+	background-size: 380px 260px;
+}
+
+.qy .tp5 {
+	background: url(../img/z5.jpg);
+	background-size: 380px 260px;
+}
+
+.qy .tp6 {
+	background: url(../img/z6.jpg);
+	background-size: 380px 260px;
+}
